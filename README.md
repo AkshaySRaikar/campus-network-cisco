@@ -7,7 +7,7 @@ departments, routers, switches, and end-user devices.
 
 ---
 
-## 📁 Project File
+## 📁 campus-network-cisco
 
 - "campus_network_topology.pkt": The main Cisco Packet Tracer file for the network.
 
@@ -27,6 +27,7 @@ departments, routers, switches, and end-user devices.
 ## 🖼️ Screenshots
 
 Screenshots of the topology and configuration
+There are 2 screenshots for your reference
 
 ---
 
