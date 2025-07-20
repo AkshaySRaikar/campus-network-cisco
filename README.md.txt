@@ -16,7 +16,7 @@ departments, routers, switches, and end-user devices.
 ## 🧠 Key Features
 
 - Multi-layered topology (Core, Distribution, Access)
-- VLAN implementation (optional if applied)
+- VLAN implementation 
 - IP addressing scheme (DHCP)
 - Inter-VLAN routing
 - Separate networks for departments
