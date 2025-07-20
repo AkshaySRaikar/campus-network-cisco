@@ -17,9 +17,8 @@ departments, routers, switches, and end-user devices.
 
 - Multi-layered topology (Core, Distribution, Access)
 - VLAN implementation (optional if applied)
-- IP addressing scheme (static or DHCP)
-- Inter-VLAN routing (if applicable)
-- Redundant paths using STP (if applicable)
+- IP addressing scheme (DHCP)
+- Inter-VLAN routing
 - Separate networks for departments
 - Realistic device configuration (Routers, Switches, PCs)
 
@@ -27,9 +26,7 @@ departments, routers, switches, and end-user devices.
 
 ## 🖼️ Screenshots
 
-Screenshots of the topology and configuration (if applicable).
-
-_Add screenshots to the `screenshots/` folder and link them here._
+Screenshots of the topology and configuration
 
 ---
 
@@ -57,6 +54,6 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ## 🙋‍♂️ Author
 
-- **Your Name**: [Your GitHub Profile](https://github.com/yourusername)
+- Akshay S Raikar: https://github.com/AkshaySRaikar
 
 Feel free to contribute or fork the project!
